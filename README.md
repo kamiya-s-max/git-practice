@@ -4,3 +4,4 @@
 ロ-カルリポで編集
 conflict ブランチで変更
 rebase コンフリクト用
+stash用
